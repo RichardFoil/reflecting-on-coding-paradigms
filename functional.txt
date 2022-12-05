@@ -1,0 +1,22 @@
+How does this solution ensure data immutability?
+
+This function insures data immuatablitity by not allowing any data or items to be overwritten or changed.
+This function only allows data to be appened to a flattend array.
+
+Is this solution a pure function? Why or why not?
+
+This solution is not a pure function. This function will affect code outside of the function. meaning it is not pure.
+however the data will not be changed only flattened out in an array. So you could make a case that it is a pure function.
+
+Is this solution a higher order function? Why or why not?
+
+This is a higher oreder function as it returns another function. 
+in python the code sorted() is a function. which means our function returns another function making it a higher order function.
+
+Would it have been easier to solve this problem using a different programming style?
+
+probably not but I don't know I am hardly experienced in any of the programing styles
+
+Why in particular is functional programming a helpful paradigm when solving this problem?
+
+Just write the function to change the data no need to create a class and methods.

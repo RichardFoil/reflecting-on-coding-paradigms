@@ -1,0 +1,19 @@
+Is one of these coding paradigms "better" than the other? Why or why not?
+
+I don't think either one of these paradigms are "better" than the other. They are both very usefull in certian situations.
+
+Given the opportunity to work predominantly using either of these coding paradigms, which seems more appealing? Why?
+
+OOP seems to be the more appealing paradigm between the two. For starters I can still write and operate functions in OOP. 
+I am also able to create classes and share the information in those classes with other classes.
+
+
+Now being more familiar with these coding paradigms, what tasks/features/pieces of logic would be best handled using functional programming? Object Oriented Programming?
+
+Functional programming is better if you have a fixed set of things and you need to add operations to them.
+OOP works well when you have a fixed set of operations on things, and you need to add more things.
+
+
+Personally, which of these styles takes more work to understand? What should be done in order to deepen understanding related to this paradigm?
+
+Personally OOP seems like it will take more work to understand. I really just to need to continue practicing with it to become more comfortable.

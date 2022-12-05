@@ -1,0 +1,14 @@
+How does this solution demonstrate the four pillars of OOP? (It may not demonstrate all of them, describe only those that apply)
+
+Encapsulation :  The podracer class Encapsulates max_speed, condition, and pricing of the racer. This is Encapsulation
+Abstraction : Only the data that the user needs will show up. hopefully in the full code they have a few more important items that would finish classifiying their racers. however only certain pieces of the information needs to be shared with the user. This is Abstraction
+Inheritance: Both anakins and sebulbas podracers inherit the podracer class in their own classes.Polymorphism:
+
+Would it have been easier to implement a solution to this problem using a different coding style? Why or why not?
+
+No, i don't know any other coding styles that would allow you to define classes and methods within those classes. 
+
+How in particular did Object Oriented Programming assist in the solving of this problem?
+
+This code needs a lot more information to actually make it effective. this "solution" to the problem didn't do anything except set up a couple of classes. 
+Nothing has been solved or fixed or made into a working application
